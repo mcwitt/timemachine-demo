@@ -13,5 +13,5 @@ dependencies:
   - pip:
     - diskcache
     - jupyterlab
-    - git+https://github.com/proteneer/timemachine.git@23f1513
+    - git+https://github.com/proteneer/timemachine.git@08a58e5
     - tqdm
