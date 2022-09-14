@@ -12,6 +12,8 @@ dependencies:
   - rdkit=2021.03.1
   - pip:
     - diskcache
+    - graphviz
+    - jupyter-black
     - jupyterlab
     - git+https://github.com/proteneer/timemachine.git@08a58e5
     - tqdm

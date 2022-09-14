@@ -59,6 +59,7 @@
       pkgFun = ps: with ps; [
         black
         diskcache
+        graphviz
         isort
         jaxlib
         matplotlib
