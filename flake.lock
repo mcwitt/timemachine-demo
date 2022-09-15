@@ -382,11 +382,11 @@
         "timemachine-src": "timemachine-src"
       },
       "locked": {
-        "lastModified": 1663101100,
-        "narHash": "sha256-VityB+cuMHWghc4bYOyNzNx6d4ETSLgZQUx4o7PjEfE=",
+        "lastModified": 1663285502,
+        "narHash": "sha256-dqsRRGv4gfbjELxGSwkXRDDeByKB+Jgj3E6+rXJMYYM=",
         "owner": "mcwitt",
         "repo": "timemachine-flake",
-        "rev": "822dc38bb62338ca9596d07aac4b1f92df50edb8",
+        "rev": "c5630cbdb02e58ed8f5c385f4207c4a09f4fcd3b",
         "type": "github"
       },
       "original": {
@@ -398,11 +398,11 @@
     "timemachine-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1662993660,
-        "narHash": "sha256-a4LivcwKHZwJrJ+0hC8Hr4dMuXWTOM//dH8ExKZNcj8=",
+        "lastModified": 1663283071,
+        "narHash": "sha256-JFOdSDun762nnNveVUD1zIKGfNZKvBgEIMKt5DWAPdo=",
         "owner": "proteneer",
         "repo": "timemachine",
-        "rev": "08a58e54584875c74ddfa71fe4636c290011cec3",
+        "rev": "a262bb0bb03deeab2c8ec330a395370a47a5dac7",
         "type": "github"
       },
       "original": {
